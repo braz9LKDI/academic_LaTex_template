@@ -30,7 +30,7 @@ A clean, simple and customizable LaTeX template for academic reports written in 
 
 ## Tooling
 
-This template uses my own [`style_config`](https://github.com/braz9LKDI/style_config) kit to keep the LaTeX source consistent, specifically its `latex_simplified/` stack:
+This template is designed to be use with the [LaTeX Workshop VS Code extension](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop), and it uses my own [`style_config`](https://github.com/braz9LKDI/style_config) kit to keep the LaTeX source consistent, specifically its `latex_simplified/` stack:
 
 - latexindent handles formatting: indentation, line breaks around environments and alignment of tabular and math delimiters.
 
